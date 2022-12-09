@@ -1,0 +1,11 @@
+D:\CBT\EX4\EX4\bin\Debug\EX4.exe.config
+D:\CBT\EX4\EX4\bin\Debug\EX4.exe
+D:\CBT\EX4\EX4\bin\Debug\EX4.pdb
+D:\CBT\EX4\EX4\obj\Debug\EX4.csproj.AssemblyReference.cache
+D:\CBT\EX4\EX4\obj\Debug\EX4.csproj.SuggestedBindingRedirects.cache
+D:\CBT\EX4\EX4\obj\Debug\EX4.Form1.resources
+D:\CBT\EX4\EX4\obj\Debug\EX4.Properties.Resources.resources
+D:\CBT\EX4\EX4\obj\Debug\EX4.csproj.GenerateResource.cache
+D:\CBT\EX4\EX4\obj\Debug\EX4.csproj.CoreCompileInputs.cache
+D:\CBT\EX4\EX4\obj\Debug\EX4.exe
+D:\CBT\EX4\EX4\obj\Debug\EX4.pdb

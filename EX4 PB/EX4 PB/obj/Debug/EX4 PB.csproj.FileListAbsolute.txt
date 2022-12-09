@@ -1,0 +1,10 @@
+B:\CBT\EX4 PB\EX4 PB\bin\Debug\EX4 PB.exe.config
+B:\CBT\EX4 PB\EX4 PB\bin\Debug\EX4 PB.exe
+B:\CBT\EX4 PB\EX4 PB\bin\Debug\EX4 PB.pdb
+B:\CBT\EX4 PB\EX4 PB\obj\Debug\EX4 PB.csproj.AssemblyReference.cache
+B:\CBT\EX4 PB\EX4 PB\obj\Debug\EX4_PB.Form1.resources
+B:\CBT\EX4 PB\EX4 PB\obj\Debug\EX4_PB.Properties.Resources.resources
+B:\CBT\EX4 PB\EX4 PB\obj\Debug\EX4 PB.csproj.GenerateResource.cache
+B:\CBT\EX4 PB\EX4 PB\obj\Debug\EX4 PB.csproj.CoreCompileInputs.cache
+B:\CBT\EX4 PB\EX4 PB\obj\Debug\EX4 PB.exe
+B:\CBT\EX4 PB\EX4 PB\obj\Debug\EX4 PB.pdb
