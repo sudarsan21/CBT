@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<student>
+	<stu>
+		<name>DharunKumar J</name>
+		<subject>Web</subject>
+		<mark>700</mark>
+		<year>2020</year>
+	</stu>
+	<stu>
+		<name>SUDARSAN P</name>
+		<subject>RDBMS</subject>
+		<mark>700</mark>
+		<year>2020</year>	
+	</stu>
+	<stu>
+		<name>KavinKumar</name>
+		<subject>Finding</subject>
+		<mark>700</mark>
+		<year>2020</year>	
+	</stu>
+</student>
