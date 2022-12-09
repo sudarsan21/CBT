@@ -1,0 +1,15 @@
+D:\CBT\ex1\ex1\bin\Debug\ex1.exe.config
+D:\CBT\ex1\ex1\bin\Debug\ex1.exe
+D:\CBT\ex1\ex1\bin\Debug\ex1.pdb
+D:\CBT\ex1\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+D:\CBT\ex1\ex1\obj\Debug\ex1.csproj.SuggestedBindingRedirects.cache
+D:\CBT\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+D:\CBT\ex1\ex1\obj\Debug\ex1.exe
+D:\CBT\ex1\ex1\obj\Debug\ex1.pdb
+G:\CBT\ex1\ex1\bin\Debug\ex1.exe.config
+G:\CBT\ex1\ex1\bin\Debug\ex1.exe
+G:\CBT\ex1\ex1\bin\Debug\ex1.pdb
+G:\CBT\ex1\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+G:\CBT\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+G:\CBT\ex1\ex1\obj\Debug\ex1.exe
+G:\CBT\ex1\ex1\obj\Debug\ex1.pdb

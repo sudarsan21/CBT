@@ -1,0 +1,17 @@
+E:\Clg folder\CBT\EX2 PB\EX2 PB\bin\Debug\net6.0-windows\EX2 PB.exe
+E:\Clg folder\CBT\EX2 PB\EX2 PB\bin\Debug\net6.0-windows\EX2 PB.deps.json
+E:\Clg folder\CBT\EX2 PB\EX2 PB\bin\Debug\net6.0-windows\EX2 PB.runtimeconfig.json
+E:\Clg folder\CBT\EX2 PB\EX2 PB\bin\Debug\net6.0-windows\EX2 PB.dll
+E:\Clg folder\CBT\EX2 PB\EX2 PB\bin\Debug\net6.0-windows\EX2 PB.pdb
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\EX2 PB.csproj.AssemblyReference.cache
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\EX2_PB.Form1.resources
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\EX2 PB.csproj.GenerateResource.cache
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\EX2 PB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\EX2 PB.AssemblyInfoInputs.cache
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\EX2 PB.AssemblyInfo.cs
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\EX2 PB.csproj.CoreCompileInputs.cache
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\EX2 PB.dll
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\refint\EX2 PB.dll
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\EX2 PB.pdb
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\EX2 PB.genruntimeconfig.cache
+E:\Clg folder\CBT\EX2 PB\EX2 PB\obj\Debug\net6.0-windows\ref\EX2 PB.dll

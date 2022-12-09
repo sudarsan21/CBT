@@ -1,0 +1,11 @@
+D:\CBT\EX2\EX2\bin\Debug\EX2.exe.config
+D:\CBT\EX2\EX2\bin\Debug\EX2.exe
+D:\CBT\EX2\EX2\bin\Debug\EX2.pdb
+D:\CBT\EX2\EX2\obj\Debug\EX2.csproj.AssemblyReference.cache
+D:\CBT\EX2\EX2\obj\Debug\EX2.csproj.SuggestedBindingRedirects.cache
+D:\CBT\EX2\EX2\obj\Debug\EX2.Form1.resources
+D:\CBT\EX2\EX2\obj\Debug\EX2.Properties.Resources.resources
+D:\CBT\EX2\EX2\obj\Debug\EX2.csproj.GenerateResource.cache
+D:\CBT\EX2\EX2\obj\Debug\EX2.csproj.CoreCompileInputs.cache
+D:\CBT\EX2\EX2\obj\Debug\EX2.exe
+D:\CBT\EX2\EX2\obj\Debug\EX2.pdb
